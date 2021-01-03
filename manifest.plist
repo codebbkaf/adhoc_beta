@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/9se523vz1wmntxi/TCPD_iOS_cg_1123.ipa</string>
+					<string>https://dl.dropboxusercontent.com/s/1wzsrytr1xww7ay/TCPD_iOS_cg_2121_1_4.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 				<key>bundle-identifier</key>
 				<string>com.tcpb.iiapapp</string>
 				<key>bundle-version</key>
-				<string>3.0.0</string>
+				<string>3.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
